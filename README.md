@@ -12,3 +12,8 @@ A simulator to provide practice for the commandline interface of the NMR machine
 3) run the executable
 
 (the linux file was too big to upload without compressing it into the .rar archive, apologies for the inconvenience linux people)
+
+#### Additional Info
+- This program was written in javascript using node.js, and was compiled using the 'pkg' npm package. 
+- I wrote this program because I wanted to be able to practice the commands for the NMRs at my own convenience, without booking time on a machine.
+- This program is not intended to be a substitute for practicing on a real NMR machine, but instead to supplement that learning process.
