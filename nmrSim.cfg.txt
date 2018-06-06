@@ -1,0 +1,4 @@
+{
+    "machine": "400sl",
+    "use confirmations":"true" 
+}
